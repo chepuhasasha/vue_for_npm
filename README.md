@@ -29,7 +29,7 @@ export default {
 ## in component
 ```vue
 <template>
-  <div class='.your_compomemt'>
+  <div class='your_compomemt'>
     <Test/>
   </div>
 </template>
