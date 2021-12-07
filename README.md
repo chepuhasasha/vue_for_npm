@@ -1,26 +1,13 @@
 # COMPONENT FOR NPM
 
-## Project setup
+## npm
 ```
-yarn install
+npm install --save @sashachepuha/test
 ```
+## using global
+```js
+// main.js
+import Test frob '@sashachepuha/test';
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
+Vue.component('test', Test)
 ```
