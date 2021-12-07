@@ -4,7 +4,7 @@
 ```
 npm install --save @sashachepuha/test
 ```
-## using global
+## global
 ```js
 // main.js
 import Test frob '@sashachepuha/test';
