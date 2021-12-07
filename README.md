@@ -7,7 +7,7 @@ npm install --save @sashachepuha/test
 ## global
 ```js
 // main.js
-import Test frob '@sashachepuha/test';
+import Test from '@sashachepuha/test';
 
 Vue.component('test', Test);
 ```
