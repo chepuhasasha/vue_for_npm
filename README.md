@@ -1,10 +1,10 @@
 # VUE COMPONENT FOR NPM
 
-## npm
+### npm
 ```
 npm install --save @sashachepuha/test
 ```
-## global
+### global
 ```js
 // main.js
 import Test from '@sashachepuha/test';
@@ -26,7 +26,7 @@ export default {
 </script>
 ```
 
-## in component
+### in component
 ```vue
 <template>
   <div class='your_compomemt'>
