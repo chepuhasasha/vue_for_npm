@@ -1,4 +1,4 @@
-# COMPONENT FOR NPM
+# VUE COMPONENT FOR NPM
 
 ## npm
 ```
