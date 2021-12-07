@@ -11,7 +11,7 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
-    "publish": "npm version patch && npm publish --access=public",
+    "publish": "npm publish --access=public",
     "patch": "npm version patch",
     "minor": "npm version minor",
     "major": "npm version major"
