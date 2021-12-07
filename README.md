@@ -9,5 +9,5 @@ npm install --save @sashachepuha/test
 // main.js
 import Test frob '@sashachepuha/test';
 
-Vue.component('test', Test)
+Vue.component('test', Test);
 ```
