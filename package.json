@@ -1,13 +1,20 @@
 {
-  "name": "test",
+  "name": "@sashachepuha/test",
   "version": "0.1.0",
   "main": "src/main.js",
-  "private": true,
+  "repository": "https://github.com/sashachepuha/for_npm",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "publish": "npm version patch && npm publish --access=public",
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major"
   },
   "dependencies": {
     "core-js": "^3.6.5",
