@@ -1,6 +1,6 @@
 <img src="https://github.com/sashachepuha/for_npm/blob/main/src/assets/stiker1.png" width="300"/>
 
-![Иллюстрация к проекту](https://github.com/sashachepuha/for_npm/blob/main/src/assets/header.png)
+![Иллюстрация к проекту](https://github.com/sashachepuha/for_npm/blob/main/src/assets/h.png)
 
 ### npm
 ```
