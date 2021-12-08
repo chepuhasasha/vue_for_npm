@@ -2,13 +2,13 @@
   "name": "@sashachepuha/test",
   "version": "0.1.6",
   "main": "src/main.js",
-  "repository": "https://github.com/sashachepuha/for_npm",
+  "repository": "https://github.com/sashachepuha/vue_for_npm",
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build --target lib --name test ./src/main.js",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
     "publish": "npm publish --access=public",
