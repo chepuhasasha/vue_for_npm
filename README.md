@@ -1,4 +1,5 @@
-![Иллюстрация к проекту](https://github.com/sashachepuha/for_npm/blob/main/src/assets/caver1.png)
+![Стикер](https://github.com/sashachepuha/for_npm/blob/main/src/assets/stiker.png)
+![Иллюстрация к проекту](https://github.com/sashachepuha/for_npm/blob/main/src/assets/header.png)
 
 ### npm
 ```
