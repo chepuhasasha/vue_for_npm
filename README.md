@@ -1,4 +1,4 @@
-# VUE COMPONENT FOR NPM
+![Иллюстрация к проекту](https://github.com/sashachepuha/for_npm/blob/main/src/assets/caver.png)
 
 ### npm
 ```
