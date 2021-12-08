@@ -1,4 +1,4 @@
-<img src="https://github.com/sashachepuha/for_npm/blob/main/src/assets/stiker.svg" alt="drawing" width="250"/>
+<img src="https://github.com/sashachepuha/for_npm/blob/main/src/assets/stiker.png" width="280px"/>
 
 ![Иллюстрация к проекту](https://github.com/sashachepuha/for_npm/blob/main/src/assets/header.png)
 
