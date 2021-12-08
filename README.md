@@ -1,4 +1,5 @@
-![Стикер](https://github.com/sashachepuha/for_npm/blob/main/src/assets/stiker.svg)
+<img src="https://github.com/sashachepuha/for_npm/blob/main/src/assets/stiker.svg" alt="drawing" width="250"/>
+
 ![Иллюстрация к проекту](https://github.com/sashachepuha/for_npm/blob/main/src/assets/header.png)
 
 ### npm
